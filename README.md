@@ -4,6 +4,8 @@
 
 Un grupo de estudio es la conformación de personas afines a aprender algo nuevo ó seguir mejorando ciertas habilidades específicamente con alguna tecnología o herramienta y que el aprendizaje sea un poco más ameno con la ayuda de todas las personas que lo conformen.
 
+> Únete al grupo de estudio: https://discord.nodeschoolsm.io , canal `#selección-de-grupo`
+
 ## [WIP] Path de aprendizaje
 
 Un pequeño path de aprendizaje para comenzar con Python
